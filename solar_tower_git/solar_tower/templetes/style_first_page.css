@@ -1,0 +1,160 @@
+body{
+    background-color: white;
+}
+
+.menu{
+    height:200px ;
+    padding: 1.5%;
+
+}
+.img {
+    max-width: 200px;
+    max-height:200px;
+    float: left;
+  }
+.solar_main{
+    color:#ffc619 ;
+    font-size: 40px;
+    padding: 1%;
+
+}
+.tower_main{
+    color:#024089;
+    font-size: 40px;
+}
+
+
+.home_main{
+    color: #1d92f1;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+    border: none;
+    padding: 1.2%;
+
+
+}
+.about_main{
+    color: #01295a;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+    border: none;
+    padding: 1.2%;
+
+}
+.conect_main{
+    color: #01295a;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+    border: none;
+    padding: 1.2%;
+
+}
+.join_main{
+    color: #01295a;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+    border: none;
+    padding: 1.2%;
+
+}
+.project_main{
+    color: #01295a;
+    font-size: 20px;
+    float: right;
+    background-color: transparent;
+    border: none;
+    padding: 1.2%;
+
+}
+
+
+.about_us{
+    display: block;
+    text-align: center;
+    line-height: 150%;
+    font-size: 50px;
+    color:#01295a;
+    
+}
+
+.what_is_solar_tower{
+    font-size: 25px;
+    padding-top:2%;
+    text-align: center;
+}
+.time_div{
+    background-color: #d6e7fc;
+    padding: 1%;
+
+}
+.time_label{
+    display: block;
+    text-align: center;
+    font-size: 50px; 
+    color: #01295a;
+
+}
+.time{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+
+}
+.time_close{
+    font-size: 20px;
+    color: red;
+    text-align: center;
+
+}
+
+.comm{
+    display: flex;
+    justify-content: center;
+    background-color:#1d92f1;
+    background-size:cover;
+    height:200px;
+    position: relative;
+    padding: 1%;
+
+
+}
+
+.call{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    color: #e1e3e7;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    position: absolute;
+    left: 20%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+
+.fb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fa841f;
+    border: none;
+    color: #e1e3e7;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    position: absolute;
+    right: 20%;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    
+}
